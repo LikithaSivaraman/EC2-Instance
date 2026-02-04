@@ -1,0 +1,17 @@
+## Updating the system packages:
+
+sudo apt update
+sudo apt upgrade -y
+
+## Installing the NGINX:
+
+sudo apt install nginx -y
+
+## Start and enable Nginx
+
+sudo systemctl start nginx
+sudo systemctl enable nginx
+
+## Verifying the Nginx
+
+sudo systemctl status nginx
