@@ -7,7 +7,7 @@ The goal is to create an AWS account, set up a Linux server on AWS EC2, and depl
 Go to console :aws.amazon.com
 
 ## STEP-2
-Create AWS account
+Create AWS account,
 EC2 --> Instances -->Launch Instance
 
 ## STEP-3
