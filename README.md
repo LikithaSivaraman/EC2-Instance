@@ -1,3 +1,5 @@
+https://github.com/LikithaSivaraman/EC2-Instance/tree/main
+
 # EC2-Instance
 deploy a simple static website using AWS EC2 Instance with SSH key
 
